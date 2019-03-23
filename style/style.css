@@ -6,6 +6,7 @@
 
 body {
     background: url("../img/concrete_seamless.png");
+    padding: 0 20px
 }
 
 section.main {
